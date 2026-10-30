@@ -7,7 +7,7 @@ Use this template by fill it in, and export it as PDF. See the [AI Usage Guideli
 ## Part A – Team Information
 | Field | Value |
 |-------|-------|
-| Team numbers | |
+| Team numbers | 3|
 | Section | |
 | Project title | |
 | Milestone (Phase) | |
